@@ -36,6 +36,7 @@ CORS(app, resources={
    }
 })
 
+
 MAX_FILES = 5
 ALLOWED_EXTENSIONS = {'pdf'}
 vectorstore = None
